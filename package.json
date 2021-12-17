@@ -6,8 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seifenan/C11-Express-Note-Taker"
+  },
+  "keywords": [],
+  "author": "Seif Enan",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seifenan/C11-Express-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/Seifenan/C11-Express-Note-Taker#readme",
   "dependencies": {
     "express": "^4.16.4"
   }
