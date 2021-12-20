@@ -1,14 +1,24 @@
 {
-  "name": "note-taker",
+  "name": "c11-note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Your Task",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seifenan/C11-Express-Note-Taker.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seifenan/C11-Express-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/Seifenan/C11-Express-Note-Taker#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.2"
   }
 }
