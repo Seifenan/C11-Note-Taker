@@ -1,4 +1,4 @@
-  # C11-Express-Note-Taker  
+  # C11-Note-Taker  
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/mit/)
 
   ## Description  
